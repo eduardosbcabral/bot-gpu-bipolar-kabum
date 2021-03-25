@@ -5,7 +5,7 @@ const Twit = require('twit');
 const Kabum = require('./kabum');
 const T = new Twit(config);
 
-const tracked_account_id = '1257205781352656897'; // eduardosbcabral
+const tracked_account_id = ''; // PERSONAL ACCOUNT ID
 //const tracked_account_id = '1285199873890045953'; // GPU BIPOLAR
 
 const tracked_words = [
